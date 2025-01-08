@@ -13,7 +13,7 @@ Used heatmaps to understand correlations.
 🔄 Feature Engineering
 Encoded categorical variables using One-Hot Encoding for machine learning compatibility.
 📊 Visualizations
-Tools and Techniques:
+Tools and Techniques
 Histograms: Show data distribution.
 Scatterplots: Identify relationships between variables.
 Boxplots: Detect outliers.
